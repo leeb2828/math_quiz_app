@@ -16,5 +16,5 @@
 - To deactivate your environment, run $ deactivate
 
 ![My Quiz App](images/question.png)
-![My Quiz App](images/answer.png)
+
 
