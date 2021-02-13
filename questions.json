@@ -1,0 +1,52 @@
+{
+    "first_set": [
+        {
+            "sign": "+",
+            "leftAdder": 3,
+            "rightAdder": 4,
+            "correctAnswer": 7,
+            "firstIncorrectAnswer": 8,
+            "secondIncorrectAnswer": 10
+        }
+    ],
+    "second_set": [
+        {
+            "sign": "÷",
+            "leftAdder": 8,
+            "rightAdder": 2,
+            "correctAnswer": 4,
+            "firstIncorrectAnswer": 5,
+            "secondIncorrectAnswer": 6
+        }
+    ],
+    "third_set": [
+        {
+            "sign": "%",
+            "leftAdder": 5,
+            "rightAdder": 2,
+            "correctAnswer": 1,
+            "firstIncorrectAnswer": 5,
+            "secondIncorrectAnswer": 2
+        }
+    ],
+    "fourth_set": [
+        {
+            "sign": "-",
+            "leftAdder": 10,
+            "rightAdder": 5,
+            "correctAnswer": 5,
+            "firstIncorrectAnswer": 3,
+            "secondIncorrectAnswer": 7
+        }
+    ],
+    "fifth_set": [
+        {
+            "sign": "×",
+            "leftAdder": 2,
+            "rightAdder": 2,
+            "correctAnswer": 4,
+            "firstIncorrectAnswer": 10,
+            "secondIncorrectAnswer": 20
+        }
+    ]
+}

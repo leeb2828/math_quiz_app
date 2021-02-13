@@ -1,0 +1,8 @@
+<form action="" method='GET'>
+    {% if is_correct %}
+        <p class="response">CORRECT!</p>
+    {% else %}
+        <p class="response">INCORRECT!</p>
+    {% endif %}
+    <input class="button bigger_button" type="submit" value="{{ B_value }}"> 
+</form>
