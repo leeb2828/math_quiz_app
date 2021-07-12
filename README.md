@@ -5,6 +5,9 @@ Download the files using the git clone command.
 ```
 $ git clone https://github.com/leeb2828/simple_quiz_app
 ```
+A virtual environment is a tool that helps to keep dependencies required by
+different projects separate from each other by using isolated virtual environments.
+The venv module comes pre installed with Python 3.5 + versions.
 Create your virtual environment
 ```
 $ python3 -m venv env
