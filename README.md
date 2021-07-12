@@ -1,28 +1,27 @@
 # Simple Math Quiz App
 
-## How to use this project
-Download the files using this command from the terminal:
+### How to use this Project
+Download the files using the git clone command.
 ```
 $ git clone https://github.com/leeb2828/simple_quiz_app
 ```
-I would recommend setting up a virtual environment first, but you don't have to. <br />
-In your terminal, navigate to the folder where the project is and run 
+Create your virtual environment
 ```
-$ pip install flask
+$ python3 -m venv env
+$ source env/bin/activate
+```
+I created the requirements.txt file using the pip freeze command.
+Install all dependencies from the requirements.txt file.
+```
+$ pip install -r requirements.txt
+```
+Run the app.py file
+```
 $ python3 app.py
 ```
-In your browser, type "http://localhost:5000"
+Type in http://localhost:5000 into your browser to view the project live.
+Type in CTRL-C to stop running the server.
 
-
-## How to set up a virtual environment in flask
-From your terminal, navigate to the correct folder.
-```
-$ python3 -m venv env 
-```
-NOTE: You don't have to name your virtual environment "env". <br />
-To activate the virtual environment, run 
-```
-$ source env/bin/activate
 ```
 To deactivate your environment:
 ```
