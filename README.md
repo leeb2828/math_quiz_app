@@ -22,7 +22,6 @@ $ python3 app.py
 Type in http://localhost:5000 into your browser to view the project live.
 Type in CTRL-C to stop running the server.
 
-```
 To deactivate your environment:
 ```
 $ deactivate
