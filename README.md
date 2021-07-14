@@ -1,4 +1,4 @@
-# Simple Math Quiz App
+# Math Quiz App
 
 ### How to use this Project
 Download the files using the git clone command.
