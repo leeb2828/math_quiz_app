@@ -29,6 +29,9 @@ To deactivate your environment:
 ```
 $ deactivate
 ```
+## About this Project 
+HTML, CSS, and Python Flask were used for this project. I wrote all of the backend and modified a little bit of the CSS. All of the quiz questions are fetched from a json file. A math question appears on the page with three different button options; two incorrect options and one correct option. When the user answers correctly, the buttons options will disappear and will be replaced by a "NEXT QUESTION" button and text that will let the user know they answered correctly. It will let the user know if they answered incorrectly. This app also keeps a tally of the number of correct and incorrect answers, and displays it to the screen. 
+<br />
 
 ![My Quiz App](images/question.png)
 
